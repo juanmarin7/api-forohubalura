@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-En este proyecto se realizo **Challenge - Foro hub** utilizando **Spring Boot con maven y java 17** se uso como baes de datos, **MySQL**  se uso tambien el IDE **Intellij** y **Postman** para las pruebas a la API.
+En este proyecto se realizo **Challenge - Foro hub** utilizando **Spring Boot con maven y java 17** se uso como base de datos, **MySQL**  se uso tambien el IDE **Intellij** y **Postman** para las pruebas a la API.
 
 ## Construido con 🛠️
 
